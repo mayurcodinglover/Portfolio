@@ -1,0 +1,11 @@
+.intro{
+    background: linear-gradient(276deg, #DA7C25 0.36%, #B923E1 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.hero
+{
+    background-color: transparent;
+}
+

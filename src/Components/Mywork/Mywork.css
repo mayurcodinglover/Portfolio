@@ -1,0 +1,8 @@
+.imgage-work:hover {
+    transform: scale(1.10);
+    border: 4px solid transparent;
+    border-radius: 0rem;
+    transition: 0.3s;
+    border-image: linear-gradient(276deg, #DA7C25 0.36%, #B923E1 100%);
+    border-image-slice: 1;
+}

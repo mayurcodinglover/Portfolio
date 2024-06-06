@@ -1,0 +1,7 @@
+.bg-hr{
+    background: linear-gradient(276deg, #DA7C25 0.36%, #B923E1 100%);   
+}
+.skill-hr:hover{
+    transform: scale(1.05);
+    transition: 0.3s;
+}
