@@ -21,13 +21,12 @@ const Mywork = () => {
             {workdata.map((data,index)=>
             {
                 return (<div className="parent-img m-2 p-2 rounded-[1rem]">
-                  <img src={data.image} className="imgage-work h-auto w-auto rounded-[1rem] object-cover">
-                  </img>
+                <a href={data.gitlink}><img src={data.image} className="imgage-work h-auto w-auto rounded-[1rem] object-cover">
+                </img></a>
                 </div>
                 )
             })}
         </div>
-        
       </div>
     </div>
   );

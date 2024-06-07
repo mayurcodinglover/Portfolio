@@ -5,19 +5,23 @@ import image4 from './4.png'
 const workdata=[
     {
         id:"01",
-        image:image1
+        image:image1,
+        gitlink:"https://github.com/mayurcodinglover/ecommerce-using-mern"
     },
     {
         id:"02",
-        image:image2
+        image:image2,
+        gitlink:"https://github.com/mayurcodinglover/Food-Court-Ecommerce-site"
     },
     {
         id:"03",
-        image:image3
+        image:image3,
+        gitlink:"https://github.com/mayurcodinglover/woodhack"
     },
     {
         id:"04",
-        image:image4
+        image:image4,
+        gitlink:"https://github.com/mayurcodinglover/Blogsite"
     }
 ]
 
